@@ -1,67 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TechTrove</title>
-    <link rel="stylesheet" href="path/to/your/styles.css">
-</head>
-<body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Contact</a></li>
-                <li><a href="#">Login</a></li>
-                <li><a href="#">Sign Up</a></li>
-            </ul>
-        </nav>
-    </header>
+<h1>TechTrove - A Dynamic Tech Blog Platform </h1>
+TechTrove is a full-stack web application built with Django, providing a feature-rich platform for technology enthusiasts to share knowledge and engage in discussions.
 
-    <main>
-        <section>
-            <h1>Welcome to TechTrove</h1>
-            <p>Explore the latest tech trends and insights.</p>
-        </section>
-
-        <section>
-            <h2>Featured Blog Posts</h2>
-            <article>
-                <h3>Post Title</h3>
-                <p>Post summary...</p>
-                <a href="#">Read More</a>
-            </article>
-            <!-- Add more blog post articles here -->
-        </section>
-
-        <section>
-            <h2>About</h2>
-            <p>Learn more about TechTrove...</p>
-        </section>
-
-        <section>
-            <h2>Contact</h2>
-            <form>
-                <label for="name">Name:</label>
-                <input type="text" id="name" name="name">
-
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email">
-
-                <label for="message">Message:</label>
-                <textarea id="message" name="message"></textarea>
-
-                <button type="submit">Submit</button>
-            </form>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; TechTrove</p>
-    </footer>
-
-    <script src="path/to/your/scripts.js"></script>
-</body>
-</html>
+<h3> Features </h3>
+User Authentication: Sign up, log in, and access personalized features.
+Blog Section: Browse and read blog posts on various tech topics, with support for multimedia content.
+Commenting System: Logged-in users can leave comments on blog posts and engage in discussions.
+Comment Moderation: Admin can moderate and reply to user comments.
+Contact Form: Users can submit inquiries and feedback through a built-in contact form.
+<h3>Technologies Used </h3>
+Backend: Python, Django
+Frontend: HTML, CSS, JavaScript
+Database: SQLite
