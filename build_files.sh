@@ -1,2 +1,2 @@
-/path/to/python3.9 -m pip install -r requirements.txt
-/path/to/python3.9 manage.py
+D:/juypter/python.exe/python3.9 -m pip install -r requirements.txt
+D:/juypter/python.exe/python3.9 manage.py
