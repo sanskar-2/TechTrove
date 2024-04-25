@@ -1,5 +1,5 @@
-<h1>TechTrove - A Dynamic Tech Blog Platform </h1>
-TechTrove is a full-stack web application built with Django, providing a feature-rich platform for technology enthusiasts to share knowledge and engage in discussions.
+<h1>iCodex - A Dynamic Tech Blog Platform </h1>
+iCodex is a full-stack web application built with Django, providing a feature-rich platform for technology enthusiasts to share knowledge and engage in discussions.
 
 <h3> Features </h3>
 User Authentication: Sign up, log in, and access personalized features.
